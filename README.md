@@ -1,1 +1,1 @@
-https://SobolVasya.github.io/rsschool-cv/cv
+SobolVasya/rsschool-cv/cv
